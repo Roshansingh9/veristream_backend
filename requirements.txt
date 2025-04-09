@@ -1,0 +1,8 @@
+Flask
+requests
+numpy
+transformers==4.36.2
+sentence-transformers
+nltk
+wikipedia
+python-dotenv
