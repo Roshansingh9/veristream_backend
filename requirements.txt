@@ -7,3 +7,5 @@ nltk
 wikipedia
 python-dotenv
 gunicorn
+
+
