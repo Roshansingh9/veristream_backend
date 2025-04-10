@@ -7,5 +7,4 @@ nltk
 wikipedia
 python-dotenv
 gunicorn
-
-
+hf_xet
